@@ -1,4 +1,4 @@
-FROM golang:1.21-alpine
+FROM golang:1.24.2-alpine
 
 # Set up workspace
 WORKDIR /app
