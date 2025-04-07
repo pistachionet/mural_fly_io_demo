@@ -6,7 +6,7 @@ This is a simple Go web server that runs on Fly.io and tells you what region is 
 
 ### 1. Install Fly CLI
 ```bash
-curl -L https://fly.io/install.sh | sh
+brew install flyctl
 ```
 
 ### 2. Login to Fly
